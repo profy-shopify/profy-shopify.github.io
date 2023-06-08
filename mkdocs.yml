@@ -21,7 +21,9 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       primary: purple
-      accent: purple
+      accent: lime
+extra_css:
+  - stylesheets/extra.css
 # To hide logo
 # extra:
 #   generator: false
