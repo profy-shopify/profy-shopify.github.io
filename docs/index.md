@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Dashboard Page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+You can access the Dashboard page through **"Dashboard"** option in the app navigation menu.
 
-## Commands
+![dashboard menu](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/dashboard_menu.png)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The Dashboard page displays the **list of banners created** by the user.
+When no banner is created, an empty state is displayed.
 
-## Project layout
+![banner empty state](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/empty_state.png)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Created Banner list
+
+If one or more banner is created, then the list of all the banner details with available filters are displayed.
+
+![created banner list](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/empty_state.png)

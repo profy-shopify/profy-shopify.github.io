@@ -8,6 +8,8 @@
 .md-sidebar__scrollwrap .md-sidebar__inner {
 	padding-right: 0;
 }
-.md-sidebar {
-	width: 15rem;
+@media screen and (min-width: 1221px) {
+	.md-sidebar {
+		width: 15rem;
+	}
 }
