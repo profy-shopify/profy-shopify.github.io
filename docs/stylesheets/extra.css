@@ -13,3 +13,6 @@
 		width: 15rem;
 	}
 }
+.md-content__inner.md-typeset {
+	font-size: 1rem;
+}
