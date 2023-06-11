@@ -15,12 +15,13 @@ If one or more banner is created, then the list of all the banner details with a
 
 ![created banner list](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_list.png)
 
+## Banner actions
 ## Search and filter banners
 
 You can search for a banner in the following ways: 
 
-1. **Banner name as the query for the search box.**
-![banner type](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_search.png)
+1. **Enter the Banner name as the query for the search box.**
+![banner search](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_search.png)
 
 
 2. **Type of the banner.**
@@ -29,3 +30,25 @@ You can search for a banner in the following ways:
 
 3. **Status of the banner (active/inactive).**
 ![banner status](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_status_filter.png)
+
+## Clear/Reset filters
+
+You can clear/Reset any applied filter by selecting the clear button in the filter menu.
+
+*Clear filter tags*
+
+![clear filter](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_filter.png)
+
+*Clear banner type filter*
+
+![clear banner type](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_banner_type.png)
+
+*Clear banner status filter*
+
+![clear status filter](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_status_filter.png)
+
+## Pagination
+
+View all banners from list by Navigating between previous and next pages.
+
+![prev next page](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/prev_next_page.png)
