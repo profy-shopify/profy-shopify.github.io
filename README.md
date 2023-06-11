@@ -1,3 +1,5 @@
-# mkdocs-material-youtube-tutorial
+# Run commands
 
-Supporting code for my YouTube tutorial video:
+- python3 -m venv venv
+- source venv/bin/activate
+- mkdocs serve

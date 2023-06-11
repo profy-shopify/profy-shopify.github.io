@@ -2,12 +2,15 @@ site_name: Profy App Documentation
 theme: 
   name: material
   features:
-    - navigation.sections
+    # - navigation.sections
+    # - navigation.instant
     - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
+    - navigation.instant
+    - navigation.expand
+    # - navigation.top
+    # - search.suggest
+    # - search.highlight
+    # - content.tabs.link
   language: en
   palette:
     - scheme: slate
