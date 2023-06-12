@@ -16,6 +16,9 @@ If one or more banner is created, then the list of all the banner details with a
 ![created banner list](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_list.png)
 
 ## Banner actions
+
+For every banner in the table, you can perform edit, enable, and delete actions.
+![banner action](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_actions.png)
 ## Search and filter banners
 
 You can search for a banner in the following ways: 
@@ -49,6 +52,6 @@ You can clear/Reset any applied filter by selecting the clear button in the filt
 
 ## Pagination
 
-View all banners from list by Navigating between previous and next pages.
+View all banners from the list by Navigating between the previous and next pages.
 
 ![prev next page](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/prev_next_page.png)
