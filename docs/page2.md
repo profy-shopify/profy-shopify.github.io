@@ -1,8 +1,12 @@
 # Create and update banners
 
-An announcement banner can be created from 
+You can create an announcement banner directly from the dashboard page.
 
 ![create banner](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page2/create_banner.png)
-## Another heading
+## Types of banners
 
-Some more example text
+You can create 4 types of banners:
+
+1. **Announcement banner:**
+
+![banner types](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page2/banner_types.png)

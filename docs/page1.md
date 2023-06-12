@@ -32,6 +32,7 @@ You can search for a banner in the following ways:
 ![banner type](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_type_filter.png)
 
 3. **Status of the banner (active/inactive).**
+
 ![banner status](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_status_filter.png)
 
 ## Clear/Reset filters
