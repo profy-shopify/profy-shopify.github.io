@@ -28,4 +28,4 @@ Display an Announcement with a timer that counts down to a certain number or dat
 
 Popup banner overlaps the existing content of the page. Unlike previous banner types, you can specify the top/bottom and right margins to align the popup on the screen.
 
-![popup bar](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page2/popup_bar.png)
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page2/popup_bar.png" alt="popup bar" width="500" />

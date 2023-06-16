@@ -30,8 +30,14 @@ When banner details are not saved, an error notification is displayed.
 
 <img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page3/save_error.png" alt="error notification" width="500" height="200"/>
 
-## Delete banner details
+## Delete banner
 
-![delete banner](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page3/banner_types.png)
+The option to delete the banner is visible from the "More actions" list.
+
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page3/banner_actions.png" alt="banner actions" width="550" />
+
+Whenever the delete option is selected, a modal for confirmation is displayed.
+
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page3/delete_banner.png" alt="delete banner" width="500" />
 
 
