@@ -27,6 +27,8 @@ theme:
       accent: lime
 extra_css:
   - stylesheets/extra.css
+plugins:
+   - glightbox
 # To hide logo
 # extra:
 #   generator: false

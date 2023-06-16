@@ -18,22 +18,23 @@ If one or more banner is created, then the list of all the banner details with a
 ## Banner actions
 
 For every banner in the table, you can perform edit, enable, and delete actions.
-![banner action](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_actions.png)
+
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_actions.png" alt="banner action" width="300"/>
+
 ## Search and filter banners
 
 You can search for a banner in the following ways: 
 
-1. **Enter the Banner name as the query for the search box.**
+1) **Enter the Banner name as the query for the search box.**
 ![banner search](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_search.png)
 
+2) **Type of the banner.** 
 
-2. **Type of the banner.**
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_type_filter.png" alt="banner type" width="400"/>
 
-![banner type](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_type_filter.png)
+3) **Status of the banner (active/inactive).**
 
-3. **Status of the banner (active/inactive).**
-
-![banner status](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_status_filter.png)
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/banner_status_filter.png" alt="banner status" width="500"/>
 
 ## Clear/Reset filters
 
@@ -45,11 +46,11 @@ You can clear/Reset any applied filter by selecting the clear button in the filt
 
 *Clear banner type filter*
 
-![clear banner type](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_banner_type.png)
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_banner_type.png" alt="clear banner type" width="500"/>
 
 *Clear banner status filter*
 
-![clear status filter](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_status_filter.png)
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page1/clear_status_filter.png" alt="clear status filter" width="500"/>
 
 ## Pagination
 

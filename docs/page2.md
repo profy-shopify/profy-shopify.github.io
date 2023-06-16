@@ -2,7 +2,7 @@
 
 You can create 4 types of banners:
 
-![banner types](https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page2/banner_types.png)
+<img src="https://raw.githubusercontent.com/profy-shopify/profy-shopify.github.io/main/assets/page2/banner_types.png" alt="banner types" width="600"/>
 
 ## 1. Announcement banner
 
