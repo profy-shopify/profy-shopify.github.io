@@ -1,4 +1,4 @@
-# 4 Types of Banners
+# Types of Banners
 
 You can create 4 types of banners:
 
