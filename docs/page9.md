@@ -23,3 +23,11 @@ Set timer alignment to the right or left side of the text.
 
 ### Label Gap
 Set gap between the label and timer digits in px.
+
+## Timer Design
+
+Choose a design for the timer from 5 types of timer designs.
+
+## Timer Color
+
+Select the digit, label, and border color for the timer container.
