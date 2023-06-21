@@ -1,0 +1,18 @@
+.md-nav__title {
+	font-size: 22px;
+	margin-bottom: 15px;
+}
+.md-nav__link {
+	font-size: 18px;
+}
+.md-sidebar__scrollwrap .md-sidebar__inner {
+	padding-right: 0;
+}
+@media screen and (min-width: 1221px) {
+	.md-sidebar {
+		width: 15rem;
+	}
+}
+.md-content__inner.md-typeset {
+	font-size: 1rem;
+}
